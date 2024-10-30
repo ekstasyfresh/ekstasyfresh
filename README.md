@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hiya! 👋
 
+Probably just going to find some mods and other game-related things here!
 <!--
 **ekstasyfresh/ekstasyfresh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
